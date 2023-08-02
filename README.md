@@ -2,7 +2,7 @@
 
 Here are the source code that i did it right but some of the source code is not optimized
 
-# Language : *C++ and Python*\
+# Language : *C++ and Python*
 
 
 # Topics of the issues are in the link below
